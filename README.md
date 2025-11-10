@@ -13,7 +13,7 @@
 
    ```bash
    git clone https://github.com/aj761774/BookingCalendarSlots.git
-   cd FileManager
+   cd BookingCalendarSlots
    ```
 
 2. **Install dependencies**
